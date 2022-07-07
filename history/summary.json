@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 404,
+      "2022-07-07": 418,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
@@ -49,19 +49,19 @@
     "url": "https://www.regalos-publicidad.es",
     "icon": "https://favicons.githubusercontent.com/www.regalos-publicidad.es",
     "slug": "regalos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1651,
-    "timeDay": 1511,
-    "timeWeek": 1641,
-    "timeMonth": 1651,
-    "timeYear": 1651,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1603,
+    "timeDay": 1363,
+    "timeWeek": 1587,
+    "timeMonth": 1603,
+    "timeYear": 1603,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 14
     }
   }
 ]
