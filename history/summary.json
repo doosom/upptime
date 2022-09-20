@@ -4,10 +4,10 @@
     "url": "https://www.sundaylab.com",
     "icon": "https://favicons.githubusercontent.com/www.sundaylab.com",
     "slug": "sunday-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 778,
@@ -15,7 +15,9 @@
     "timeWeek": 820,
     "timeMonth": 794,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Latitas",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-20": 127,
+      "2022-09-20": 702,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
@@ -124,7 +126,7 @@
     "url": "https://www.regalos-publicidad.es",
     "icon": "https://favicons.githubusercontent.com/www.regalos-publicidad.es",
     "slug": "regalos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -135,6 +137,8 @@
     "timeWeek": 1338,
     "timeMonth": 1340,
     "timeYear": 1414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   }
 ]
