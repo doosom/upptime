@@ -2,7 +2,7 @@
   {
     "name": "Sunday Lab",
     "url": "https://www.sundaylab.com",
-    "icon": "https://favicons.githubusercontent.com/www.sundaylab.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.sundaylab.com.ico",
     "slug": "sunday-lab",
     "status": "up",
     "uptime": "99.96%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 783,
-    "timeDay": 737,
-    "timeWeek": 806,
-    "timeMonth": 833,
-    "timeYear": 783,
+    "time": 785,
+    "timeDay": 892,
+    "timeWeek": 824,
+    "timeMonth": 842,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2022-09-20": 47
     }
@@ -22,7 +22,7 @@
   {
     "name": "Latitas",
     "url": "https://www.latitas-online.es",
-    "icon": "https://favicons.githubusercontent.com/www.latitas-online.es",
+    "icon": "https://icons.duckduckgo.com/ip3/www.latitas-online.es.ico",
     "slug": "latitas",
     "status": "down",
     "uptime": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 147,
+      "2022-10-02": 139,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -135,7 +136,7 @@
   {
     "name": "Regalos",
     "url": "https://www.regalos-publicidad.es",
-    "icon": "https://favicons.githubusercontent.com/www.regalos-publicidad.es",
+    "icon": "https://icons.duckduckgo.com/ip3/www.regalos-publicidad.es.ico",
     "slug": "regalos",
     "status": "up",
     "uptime": "99.97%",
@@ -143,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
-    "time": 1413,
-    "timeDay": 1440,
-    "timeWeek": 1403,
-    "timeMonth": 1435,
-    "timeYear": 1413,
+    "time": 1414,
+    "timeDay": 1528,
+    "timeWeek": 1414,
+    "timeMonth": 1445,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2022-09-20": 46
     }
