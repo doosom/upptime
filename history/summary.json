@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 570,
-    "timeDay": 849,
-    "timeWeek": 607,
+    "timeDay": 501,
+    "timeWeek": 612,
     "timeMonth": 612,
-    "timeYear": 556,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-04-28": 17,
       "2024-03-17": 30,
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.latitas-online.es.ico",
     "slug": "latitas",
     "status": "up",
-    "uptime": "85.39%",
+    "uptime": "85.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1444,
-    "timeDay": 1763,
-    "timeWeek": 1411,
-    "timeMonth": 1419,
-    "timeYear": 1383,
+    "timeDay": 1165,
+    "timeWeek": 1416,
+    "timeMonth": 1417,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2024-08-15": 15
     }
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
-    "timeDay": 1271,
-    "timeWeek": 995,
+    "timeDay": 779,
+    "timeWeek": 990,
     "timeMonth": 973,
-    "timeYear": 943,
+    "timeYear": 942,
     "dailyMinutesDown": {}
   }
 ]
