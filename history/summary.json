@@ -47,17 +47,19 @@
     "url": "https://www.regalos-publicidad.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.regalos-publicidad.es.ico",
     "slug": "regalos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
+    "time": 973,
     "timeDay": 928,
     "timeWeek": 1043,
     "timeMonth": 1008,
     "timeYear": 944,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   }
 ]
