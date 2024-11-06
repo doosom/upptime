@@ -27,10 +27,10 @@
     "url": "https://www.latitas-online.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.latitas-online.es.ico",
     "slug": "latitas",
-    "status": "up",
+    "status": "down",
     "uptime": "85.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1444,
@@ -39,6 +39,7 @@
     "timeMonth": 1364,
     "timeYear": 1374,
     "dailyMinutesDown": {
+      "2024-11-06": 2,
       "2024-08-15": 15
     }
   },
@@ -47,17 +48,19 @@
     "url": "https://www.regalos-publicidad.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.regalos-publicidad.es.ico",
     "slug": "regalos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 963,
+    "time": 961,
     "timeDay": 673,
-    "timeWeek": 936,
+    "timeWeek": 959,
     "timeMonth": 984,
     "timeYear": 943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 0
+    }
   }
 ]
